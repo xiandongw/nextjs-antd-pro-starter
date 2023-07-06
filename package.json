@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "nextjs with ant design pro by typescript",
   "license": "MIT",
-  "author": "xiandong.wang@zoom.us",
+  "author": "xiandong@gmail.com",
   "scripts": {
     "build": "next build",
     "dev": "next",
